@@ -18,7 +18,7 @@ function Header() {
     
   return (
     <nav>
-        <h3>Infinite Scroller</h3>
+        <h1>Infinite Scroller</h1>
         <div className="searchBar">
             <input 
                 type="text" 
